@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Joaquin 👋
 
-<!--
-**JoaGranzowA/JoaGranzowA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student transitioning into **Cybersecurity and Cloud Security**. Currently building skills toward SOC Analyst and Cloud Security Engineer roles.
 
-Here are some ideas to get you started:
+## 🎯 Currently focused on
+- Studying for **AZ-900** Microsoft Azure Fundamentals
+- Building a home detection lab with Wazuh, Sysmon, and Microsoft Sentinel
+- Learning KQL and detection engineering fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+
+**Working with**:
+- Python (security automation, log analysis)
+- Linux, Windows, networking fundamentals
+- SQL, Git, GitHub
+- Basic SIEM concepts (from Google Cybersecurity Certificate)
+
+**Currently learning**:
+- Microsoft Azure (AZ-900 → AZ-104 → SC-200 path)
+- Microsoft Sentinel and KQL
+- Wazuh, Sysmon, Windows event telemetry
+- MITRE ATT&CK framework
+- Detection engineering fundamentals
+
+## 📚 Background
+- Computer Engineering student at Universidad Técnica Federico Santa María
+- 4 months of IT support experience at CONAF (network maintenance, technical support, equipment administration)
+- Google Cybersecurity Certificate
+- English C2 Proficient (EF SET 80/100)
+
+## 📂 What you'll find here
+- **cybersecurity-journey** — public log of my learning path, study notes, and reflections
+- **ssh-bruteforce-detector** — Python tool for detecting SSH brute-force attempts with CSV/JSON history and IP geolocation
+- More projects coming as I progress through certifications and labs
+
+## 📫 Connect
+- LinkedIn: linkedin.com/in/joaquin-granzow
