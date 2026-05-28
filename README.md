@@ -74,7 +74,7 @@ My goal is to grow into a **Cloud Security** role by developing strong fundament
 
 ### Current
 
-#### [cybersecurity-journey](https://github.com/JoaGranzow/cybersecurity-journey)
+#### [cybersecurity-journey](https://github.com/JoaGranzowA/cybersecurity-journey)
 
 Public learning log documenting my transition into cybersecurity and cloud security.
 
@@ -85,7 +85,7 @@ Includes:
 - Small technical experiments
 - Learning roadmap
 
-#### [ssh-bruteforce-detector](https://github.com/JoaGranzow/ssh-bruteforce-detector)
+#### [ssh-bruteforce-detector](https://github.com/JoaGranzowA/ssh-bruteforce-detector)
 
 Python tool for detecting SSH brute-force attempts using CSV/JSON history and IP geolocation.
 
