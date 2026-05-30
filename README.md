@@ -143,6 +143,7 @@ Planned topics:
 <p>
   <img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Security%20Fundamentals-EA1D25?style=flat-square&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
 ### Long-term
